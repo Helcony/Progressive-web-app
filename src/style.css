@@ -1,0 +1,29 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(20, 18, 18);
+    align-content: center;
+}
+
+
+.container {
+    width: 50%;
+    margin: auto;
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.title {
+    color: rgb(176, 228, 228);
+}
+
+.text {
+    margin-top: 2rem;
+    color: azure;
+}
+
+.img {
+    margin-top: 2rem;
+    user-select: none;
+    height: 20rem;
+    max-width: 100%;
+}
